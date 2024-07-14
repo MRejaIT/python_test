@@ -1,3 +1,4 @@
+pip install azure-communication-email
 from azure.communication.email import EmailClient
 def main():
     try:

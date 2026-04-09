@@ -1,4 +1,4 @@
-import day1_7_Math_Oparations as mo
+import Week1.day1_7_Math_Oparations as mo
 
 num1 = 10
 num2 = 5
